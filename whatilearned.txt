@@ -1,0 +1,3 @@
+Legend element acts as a caption for the content in fieldset element
+
+fieldset element is used to group related inputs and labels together in a web form.
